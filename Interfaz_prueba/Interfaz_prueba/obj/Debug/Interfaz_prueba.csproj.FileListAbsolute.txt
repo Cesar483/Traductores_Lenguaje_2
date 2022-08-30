@@ -1,0 +1,10 @@
+C:\Users\cesar\Desktop\Erasmo\Interfaz_prueba\Interfaz_prueba\bin\Debug\Interfaz_prueba.exe.config
+C:\Users\cesar\Desktop\Erasmo\Interfaz_prueba\Interfaz_prueba\bin\Debug\Interfaz_prueba.exe
+C:\Users\cesar\Desktop\Erasmo\Interfaz_prueba\Interfaz_prueba\bin\Debug\Interfaz_prueba.pdb
+C:\Users\cesar\Desktop\Erasmo\Interfaz_prueba\Interfaz_prueba\obj\Debug\Interfaz_prueba.csproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\Erasmo\Interfaz_prueba\Interfaz_prueba\obj\Debug\Interfaz_prueba.Properties.Resources.resources
+C:\Users\cesar\Desktop\Erasmo\Interfaz_prueba\Interfaz_prueba\obj\Debug\Interfaz_prueba.csproj.GenerateResource.cache
+C:\Users\cesar\Desktop\Erasmo\Interfaz_prueba\Interfaz_prueba\obj\Debug\Interfaz_prueba.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\Erasmo\Interfaz_prueba\Interfaz_prueba\obj\Debug\Interfaz_prueba.exe
+C:\Users\cesar\Desktop\Erasmo\Interfaz_prueba\Interfaz_prueba\obj\Debug\Interfaz_prueba.pdb
+C:\Users\cesar\Desktop\Erasmo\Interfaz_prueba\Interfaz_prueba\obj\Debug\Interfaz_prueba.Principal.resources
